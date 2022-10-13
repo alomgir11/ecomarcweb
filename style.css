@@ -1,0 +1,21 @@
+.slide-color{
+    background-color: rgb(247, 52, 198);
+    padding: 25px;
+    height: 500px;
+}
+.ami{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: large;
+}
+.price{
+    color: rgb(0, 128, 32);
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #58ff82 0%, #26db6b 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
